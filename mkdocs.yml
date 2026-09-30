@@ -1,0 +1,24 @@
+site_name: Feather Fencer Fechtbuch
+site_description: A personal knowledge base for historical European martial arts.
+site_url: https://unicorn-hema.github.io/feather-fencer-fechtbuch/
+repo_url: https://github.com/unicorn-hema/feather-fencer-fechtbuch
+repo_name: unicorn-hema/feather-fencer-fechtbuch
+edit_uri: edit/main/docs/
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.top
+    - search.suggest
+    - search.highlight
+plugins:
+  - search:
+      lang: [en, cs]
+nav:
+  - Home: index.md
+  - About: about.md
+  - Work in progress: wip/index.md
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
