@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" role="img" aria-labelledby="title desc">
+  <title id="title">Illustration placeholder</title>
+  <desc id="desc">Two empty panels demonstrate space for an inline figure. This is not a fencing diagram.</desc>
+  <rect width="960" height="360" fill="#f7f4ed"/>
+  <g fill="none" stroke="#bdb4a5" stroke-width="2" stroke-dasharray="7 7">
+    <rect x="48" y="42" width="408" height="218" rx="3"/>
+    <rect x="504" y="42" width="408" height="218" rx="3"/>
+  </g>
+  <g fill="#784334" font-family="Georgia, serif" font-size="42" text-anchor="middle">
+    <text x="252" y="166">A</text><text x="708" y="166">B</text>
+  </g>
+  <text x="480" y="310" fill="#596066" font-family="Arial, sans-serif" font-size="19" text-anchor="middle">ILLUSTRATION SPACE · NO TECHNIQUE DEPICTED</text>
+</svg>

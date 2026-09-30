@@ -17,8 +17,14 @@ plugins:
 nav:
   - Home: index.md
   - About: about.md
-  - Work in progress: wip/index.md
+  - Editorial framework: editorial/chapter-framework.md
+  - Work in progress:
+      - Overview: wip/index.md
+      - Chapter layout specimen: wip/chapter-layout.md
+extra_css:
+  - stylesheets/chapters.css
 markdown_extensions:
   - admonition
+  - md_in_html
   - toc:
       permalink: true
