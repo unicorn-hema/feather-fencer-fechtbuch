@@ -19,6 +19,35 @@ HEMA application visible. Chapters follow the Zettel and its glosses, rather tha
 an independently imposed modern training syllabus. Final articles are in English;
 clearly marked working notes may be in Czech.
 
+## Editorial independence and evidence
+
+Historical glosses are primary evidence for this project, not authorities with
+which the author must always agree. The fechtbuch may advance a different
+historical reading or a deliberately different modern application. Such a
+departure must be visible and argued, not silently attributed to the source.
+
+- **Source:** report what each witness actually says, including consequential
+  differences and limitations. Reproduce a gloss faithfully even when the
+  author's conclusion differs from it.
+- **Historical interpretation:** explain the author's reading and its basis.
+  Where it conflicts with a gloss or another plausible reading, identify the
+  exact disagreement, relevant supporting evidence, counterevidence, and
+  uncertainty. Practical success alone cannot establish historical intent.
+- **Hypothesis:** label plausible but insufficiently supported explanations
+  explicitly, for example as an author's hypothesis. State the reasoning and
+  the status of any modern observations used to motivate it.
+- **Modern application:** the author may reject or adapt a historically attested
+  procedure to meet present-day HEMA conditions. Identify what is being
+  transferred, what is being changed, and why; do not project modern usefulness
+  back onto the historical source.
+
+Actively look for evidence that challenges a preferred reading, rather than
+using sources only to confirm it. Disagreement need not be resolved by forced
+consensus: revise an unsupported historical claim or mark its status honestly;
+a modern model can remain useful while differing from the glosses. In personal
+authorial sections use the first-person singular (“I”), not a fictitious
+collective “we”. Source summaries should remain neutrally attributed.
+
 ## Source groups
 
 - **GNM Hs. 3227a:** considered separately as one principal body of commentary.
@@ -81,9 +110,10 @@ deliberate adaptations. Historical reconstruction and modern usefulness are
 different claims. Practical examples, exercises, or observations belong here
 when they help, but are not mandatory subsections.
 
-Major departures are not anticipated, but agreement is not a requirement.
-If a conflict arises: describe the problem, investigate its cause, decide whether
-a departure is necessary, and explain the chosen solution and its limits.
+Agreement with the historical prescriptions is not required in this modern
+section. For a deliberate departure, explain the historical baseline, the
+present-day problem, the alternative adopted, its justification, and its limits.
+Apply the evidential discipline set out above.
 
 ### 5. Notes and open questions
 
