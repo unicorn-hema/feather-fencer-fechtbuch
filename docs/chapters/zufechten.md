@@ -72,7 +72,7 @@ The numbered passage is cross-referenced to **Michael Chidester, “Rhyming Tran
 </div>
 </div>
 
-**Translation notes.** The rendering of **9–10** is deliberately *gloss-informed*, condensing the coordinated cut and passing step made explicit by the commentators; it should not be mistaken for a word-for-word translation of the compressed German couplets. In **12**, *Wechsler* is retained provisionally as “changer.” The RDL glosses explain the relevant tactical problem as the opponent's *Durchwechseln* (*changing through*): retaining the threatening point before the face or chest prevents that action in front of the point. I have therefore not silently substituted the gloss's fuller explanation for the Zettel's wording. In **13**, “quick strikes” is my provisional rendering of *Zeck*; related gloss wording (*Zeckrühr*) and other modern renderings warrant a short terminological note before final publication. “First cut” and the specific placement of the point before the face/chest are instructions developed in the **glosses**, not phrases in the Zettel itself.
+*Translation notes*[^zettel-notes]
 
 ## 2. Historical glosses
 
@@ -145,3 +145,5 @@ I do not think this makes the underlying lesson obsolete. What I want to preserv
 Note that the goal is not merely to make the opponent move. Their response must occur on terms that still leave me able to act. A reaction that stops my attack, takes away the initiative, or creates a double hit will not deliver the tactical advantage I am looking for. I therefore treat *Vor* as an advantage I must **establish and preserve through the next decision**, not an automatic reward for provoking *any* reaction. I consider this modern approach consistent with the tactical principle I infer from the glosses, while recognising that it achieves that principle through different means.
 
 </div>
+
+[^zettel-notes]: **Translation notes.** The rendering of **9–10** is deliberately *gloss-informed*, condensing the coordinated cut and passing step made explicit by the commentators; it should not be mistaken for a word-for-word translation of the compressed German couplets. In **12**, *Wechsler* is retained provisionally as “changer.” The RDL glosses explain the relevant tactical problem as the opponent's *Durchwechseln* (*changing through*): retaining the threatening point before the face or chest prevents that action in front of the point. I have therefore not silently substituted the gloss's fuller explanation for the Zettel's wording. In **13**, “quick strikes” is my provisional rendering of *Zeck*; related gloss wording (*Zeckrühr*) and other modern renderings warrant a short terminological note before final publication. “First cut” and the specific placement of the point before the face/chest are instructions developed in the **glosses**, not phrases in the Zettel itself.
