@@ -88,7 +88,7 @@ The surrounding exposition repeatedly stresses the importance of the point (*Ort
 
 **Witness note:** 3227a's version of the *Common Lesson* includes additional lines, including advice to seek openings rather than strike at the sword. The explanation of *Vor / Vorschlag / Nachschlag* is relevant surrounding context, but extends beyond the selected verses 9–16.
 
-**Source:** GNM Hs. 3227a, *Common Lesson* and surrounding exposition (approximately fols. 18r–24r); [Wiktenauer, anonymous long-sword gloss](https://wiktenauer.com/wiki/Pseudo-Hans_D%C3%B6bringer). Transcription: **Dierk Hagedorn**; English versions consulted in the earlier draft: **Michael Chidester (2022)** and **Christian Trosclair (2022)**. The wider folio range identifies supporting surrounding discussion, not a claim that verses 9–16 occupy it in full.
+*Source*[^gloss-3227a]
 
 ### 2.2 RDL — Ringeck, pseudo-Peter von Danzig and Lew
 
@@ -100,11 +100,7 @@ The surrounding exposition repeatedly stresses the importance of the point (*Ort
 - **Pseudo-Danzig** distinguishes responses according to the parry: strike or touch the arm if the opponent strongly displaces the point; if they raise their arms high, strike below to the body and step back.
 - **Lew** explicitly describes the forceful opening cut as compelling the opponent to parry. After a strong parry, he instructs the fencer to strike the opponent's left arm and step back.
 
-**References / editions:**
-
-- **Ringeck:** [Wiktenauer, *Sigmund ain Ringeck*](https://wiktenauer.com/wiki/Sigmund_ain_Ringeck), *Common Lesson* §§3–7; Dresden transcription by **Dierk Hagedorn**, approximately fols. **11v–14v**; comparative English rendering by **Christian Trosclair** (2015, revised 2022).
-- **Pseudo-Danzig:** [Wiktenauer, *Pseudo-Peter von Danzig*](https://wiktenauer.com/wiki/Pseudo-Peter_von_Danzig), *Common Lesson* §§4–9; Rome **Cod. 44.A.8**, approximately fols. **10r–11v**; transcription by **Dierk Hagedorn**; English renderings by **Cory Winslow (2016)** and **Christian Trosclair (2022)**.
-- **Lew:** [Wiktenauer, *Lew*](https://wiktenauer.com/wiki/Lew), *Common Lesson* §§2–6; Augsburg transcription (beginning at **01v**) by **Dierk Hagedorn**; English renderings by **Cory Winslow (2016)** and **Christian Trosclair (2021)**.
+*References / editions*[^gloss-rdl]
 
 ### 2.3 Comparison
 
@@ -147,3 +143,11 @@ Note that the goal is not merely to make the opponent move. Their response must 
 </div>
 
 [^zettel-notes]: **Translation notes.** The rendering of **9–10** is deliberately *gloss-informed*, condensing the coordinated cut and passing step made explicit by the commentators; it should not be mistaken for a word-for-word translation of the compressed German couplets. In **12**, *Wechsler* is retained provisionally as “changer.” The RDL glosses explain the relevant tactical problem as the opponent's *Durchwechseln* (*changing through*): retaining the threatening point before the face or chest prevents that action in front of the point. I have therefore not silently substituted the gloss's fuller explanation for the Zettel's wording. In **13**, “quick strikes” is my provisional rendering of *Zeck*; related gloss wording (*Zeckrühr*) and other modern renderings warrant a short terminological note before final publication. “First cut” and the specific placement of the point before the face/chest are instructions developed in the **glosses**, not phrases in the Zettel itself.
+
+[^gloss-3227a]: **Source:** GNM Hs. 3227a, *Common Lesson* and surrounding exposition (approximately fols. 18r–24r); [Wiktenauer, anonymous long-sword gloss](https://wiktenauer.com/wiki/Pseudo-Hans_D%C3%B6bringer). Transcription: **Dierk Hagedorn**; English versions consulted in the earlier draft: **Michael Chidester (2022)** and **Christian Trosclair (2022)**. The wider folio range identifies supporting surrounding discussion, not a claim that verses 9–16 occupy it in full.
+
+[^gloss-rdl]: **References / editions:**
+
+    - **Ringeck:** [Wiktenauer, *Sigmund ain Ringeck*](https://wiktenauer.com/wiki/Sigmund_ain_Ringeck), *Common Lesson* §§3–7; Dresden transcription by **Dierk Hagedorn**, approximately fols. **11v–14v**; comparative English rendering by **Christian Trosclair** (2015, revised 2022).
+    - **Pseudo-Danzig:** [Wiktenauer, *Pseudo-Peter von Danzig*](https://wiktenauer.com/wiki/Pseudo-Peter_von_Danzig), *Common Lesson* §§4–9; Rome **Cod. 44.A.8**, approximately fols. **10r–11v**; transcription by **Dierk Hagedorn**; English renderings by **Cory Winslow (2016)** and **Christian Trosclair (2022)**.
+    - **Lew:** [Wiktenauer, *Lew*](https://wiktenauer.com/wiki/Lew), *Common Lesson* §§2–6; Augsburg transcription (beginning at **01v**) by **Dierk Hagedorn**; English renderings by **Cory Winslow (2016)** and **Christian Trosclair (2021)**.
