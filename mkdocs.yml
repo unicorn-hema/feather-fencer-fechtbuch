@@ -28,5 +28,6 @@ extra_css:
 markdown_extensions:
   - admonition
   - md_in_html
+  - footnotes
   - toc:
       permalink: true
