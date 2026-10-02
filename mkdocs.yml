@@ -18,6 +18,8 @@ nav:
   - Home: index.md
   - About: about.md
   - Editorial framework: editorial/chapter-framework.md
+  - Chapters:
+      - Zufechten — Zettel 9–16: chapters/zufechten.md
   - Work in progress:
       - Overview: wip/index.md
       - Chapter layout specimen: wip/chapter-layout.md
@@ -26,5 +28,6 @@ extra_css:
 markdown_extensions:
   - admonition
   - md_in_html
+  - footnotes
   - toc:
       permalink: true
