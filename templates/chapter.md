@@ -3,101 +3,146 @@ title: "[Chapter title]"
 description: "[One-sentence description]"
 ---
 
-<!-- Copy into docs/ and add to mkdocs.yml navigation. Replace all prompts.
-Use editorial/chapter-framework.md as the reference. This structure is flexible.
-Images and language notes go beside the passages they explain.
-Only mark a chapter finished after resolving or exposing material uncertainties. -->
+<!-- Copy into docs/ and add to mkdocs.yml navigation.
+Read docs/editorial/chapter-framework.md. Replace every placeholder.
+This template is flexible: omit optional sections, markers and footnote
+definitions when unused. The repository and published pages are public.
+Do not insert private notes, internal editorial audits or unapproved material.
+Use a clearly marked status only while the reader-facing page is a work in progress. -->
 
 <div class="fff-chapter" markdown="1">
 
-<p class="fff-eyebrow">Feather Fencer Fechtbuch · Working draft</p>
+<p class="fff-eyebrow">Feather Fencer Fechtbuch · [Tradition / weapon]</p>
 
 # [Chapter title]
 
-<p class="fff-deck">[One-sentence introduction to the chapter.]</p>
+<p class="fff-deck">[One-sentence introduction and textual scope.]</p>
 
-*Status: working draft · Updated: [date]*
+[If the editorial chapter boundary differs from a historical heading, say so.]
+
+## TL;DR
+
+[Normally one or two short paragraphs in the author's first-person singular:
+my historical reading, followed by what I retain or deliberately adapt in
+modern HEMA. This is an authorial overview, not an unattributed source claim.]
 
 ## 1. Zettel
 
 <div class="fff-original" markdown="1">
 
-<p class="fff-label">Original · source text</p>
+<p class="fff-label">Original · [witness and verse range]</p>
 
-> [Original wording; preserve line breaks.]
+> [Original wording; preserve line breaks and identify textual witness.]
 
-<p class="fff-source">Source: [witness / edition, folio or verse, link].</p>
+<p class="fff-source">Witness/transcription: [manuscript / edition / folio / transcriber / link].</p>
 
 </div>
 
 <div class="fff-translations" markdown="1">
 <div class="fff-translation" markdown="1">
 
-### Verse translation
+### Verse translation — [attributed rendering or external reference]
 
-> [Attributed verse translation or explicitly labelled authorial adaptation.]
-
-<p class="fff-source">Translator: [name, edition/link].</p>
+[Reproduce a licensed/permitted translation with precise credit, give a verified
+authorial adaptation, OR link to a named external rendering without copying it.
+Do not mistake a rhyming adaptation for definitive linguistic evidence.]
 
 </div>
 <div class="fff-translation" markdown="1">
 
-### Sense translation
+### Sense translation — [authorial / provisional / gloss-informed as appropriate]
 
-[Translate directly from the original. Preserve or explain meaningful ambiguity.]
-
-<p class="fff-source">Translator: [name, edition/link].</p>
+> [Translate from the German, preserving meaningful uncertainty.
+> If gloss-informed, label the intervention explicitly.]
 
 </div>
 </div>
+
+*Translation notes*[^zettel-notes]
 
 ## 2. Historical glosses
 
-### GNM Hs. 3227a
+<p class="fff-label">Source summaries · attributed editorial wording</p>
 
-<p class="fff-label">Source summary · our wording</p>
+[Summarise relevant instructions faithfully even when they differ from my reading.
+Distinguish the selected verses from relevant surrounding exposition.]
 
-[Our summary, explicitly distinguished from any quotations.]
+### 2.1 GNM Hs. 3227a — anonymous commentary
 
-*References: [folio/passage, transcription, translator, links].*
+[Concise summary of its particular explanation; avoid paraphrasing every line.]
 
-### RDL
+[Optional: a short witness or boundary clarification when materially relevant.]
 
-<p class="fff-label">Comparative group · our synthesis</p>
+*Source*[^gloss-3227a]
 
-[Our synthesis. Attribute individual passages; identify differences where relevant.]
+### 2.2 RDL — Ringeck, pseudo-Peter von Danzig and Lew
 
-*References: [R / D / L witnesses, passages, translators, links].*
+**Shared teaching.** [State only what the three glosses genuinely share,
+once, rather than restating identical material for each witness.]
 
-### Comparison — optional
+**Differences of emphasis and continuation:**
 
-[Common ground, differences of emphasis, differences of substance, or silence.]
+- **Ringeck:** [Relevant distinctive point, omission or continuation.]
+- **Pseudo-Danzig:** [Relevant distinctive point, omission or continuation.]
+- **Lew:** [Relevant distinctive point, omission or continuation.]
 
-!!! note "Language and translation — optional; move next to the relevant passage"
-    **Original wording:** [text]
+*References / editions*[^gloss-rdl]
 
-    **Existing translation:** [attributed rendering]
+### 2.3 Comparison — optional
 
-    **Proposed reading:** [alternative or ambiguity]
+[Only add a short 3227a/RDL comparison if it contributes something not already
+said. Related sources are not independent confirmations by default.]
 
-    **Reason and limits:** [argument; manuscript check if needed]
+<!-- Optional language commentary may appear here or by the Zettel.
+Keep short essential qualifications inline; use a linked endnote for lengthy
+explanation instead of disrupting the chapter's flow. -->
 
 ## 3. My historical interpretation
 
 <p class="fff-label">Author's reading · historical context</p>
 
-[My reading, supporting argument, alternatives, and uncertainty beside each claim.]
+**INTERPRETATION.** [What I think the sources describe, why, and the relevant
+alternative readings. Use first-person singular, not a fictional "we".]
 
-<!-- Insert an image here if it helps. Provide alt text, caption, role and credit. -->
+**HYPOTHESIS — [subject], if applicable.** [State my less-established proposal
+as a proposal; make evidence, counterevidence and relevant uncertainty visible.]
+
+[Optional EMPIRICAL OBSERVATION — MY ACCOUNT: report the observation accurately
+in its own terms. Do not silently turn it into proof of historical frequency.]
+
+<!-- Insert images adjacent to the claim they support, with alt text, caption,
+source/credit, and classification as historical image or modern model. -->
 
 ## 4. My application in modern HEMA
 
 <p class="fff-label fff-label-modern">Author's practice · present-day conditions</p>
 
-[Purpose, relevant conditions, practical application, and any deliberate adaptation.]
+**MODERN MODEL / [EXPERIENCE, where relevant].** [Specify the conditions in
+which I apply the reading, what is retained, what is changed and why. Distinguish
+modern practical utility from historical evidence.]
 
-## 5. Notes and open questions
+## 5. Notes and open questions — optional
 
-[Additional sources, unresolved questions, and useful future checks. Omit if empty.]
+[Include only reader-relevant supplementary sources, alternative readings or
+unresolved issues. Remove this section if empty. Do not publish editorial audit
+checklists, working histories or private notes as chapter content.]
 
 </div>
+
+<!-- Linked footnotes render at the end of the page with backlinks.
+MkDocs enables the Python-Markdown footnotes extension.
+Keep definitions after the closing fff-chapter div and remove every unused
+marker AND its corresponding definition. Essential qualifications still belong
+beside the claim; footnotes are not a device to hide uncertainty. -->
+
+[^zettel-notes]: **Translation notes.** [Explain significant textual or
+    linguistic choices; identify when the sense rendering follows a gloss.]
+
+[^gloss-3227a]: **Source:** [Manuscript, precise locus, transcription, named
+    translations / editions and links.]
+
+[^gloss-rdl]: **References / editions:**
+
+    - **Ringeck:** [Witness, locus, transcription, translation and link.]
+    - **Pseudo-Danzig:** [Witness, locus, transcription, translation and link.]
+    - **Lew:** [Witness, locus, transcription, translation and link.]
