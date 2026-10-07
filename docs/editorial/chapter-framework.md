@@ -1,6 +1,6 @@
 # Chapter framework
 
-**Working agreement · version 0.3 · 2 October 2026**
+**Working agreement · version 0.4 · 7 October 2026**
 
 This is the reference for writing chapters of *Feather Fencer Fechtbuch*.
 It records the agreed structure and method. It is a starting point, not a canon:
@@ -48,6 +48,12 @@ consensus: revise an unsupported historical claim or mark its status honestly;
 a modern model can remain useful while differing from the glosses. In personal
 authorial sections use the first-person singular (“I”), not a fictitious
 collective “we”. Source summaries should remain neutrally attributed.
+
+**Survival does not establish representativeness.** The prominence of an idea,
+technique, or textual tradition in the surviving evidence does not by itself show
+how common, important, or representative it was in historical practice. Where an
+argument depends on prevalence or typicality, look for independent evidence rather
+than inferring it from survival alone.
 
 ## Source groups
 
@@ -202,10 +208,16 @@ be enough to locate the recorded working context.
 6. **Separate English/readability review.** Correct grammar, terminology,
    presentation and consistency of the first-person authorial voice without
    silently changing the author's meaning or degree of confidence.
-7. **Author approval and publication preparation.** Show the actual proposed
+7. **Final source and citation audit.** Once the prose is stable, re-check
+   consequential historical claims, quotations, translations, manuscript loci,
+   attributions and source links against the evidence actually cited. Pay
+   particular attention to whether language editing has inadvertently strengthened,
+   generalised or otherwise changed a claim. Any substantive correction made
+   during this pass requires renewed author approval.
+8. **Author approval and publication preparation.** Show the actual proposed
    reader-facing text; remove internal editorial notes, retain useful public
    uncertainties, and adapt it to the chapter layout and navigation.
-8. **PR, checks and publication.** Submit an approved candidate on a branch via
+9. **PR, checks and publication.** Submit an approved candidate on a branch via
    pull request, run `mkdocs build --strict`, review layout when possible, and
    merge to `main` only after explicit authorisation. PR checks alone do not
    provide a public GitHub Pages preview; if appearance matters before merging,

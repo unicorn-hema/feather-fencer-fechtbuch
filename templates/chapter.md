@@ -5,6 +5,9 @@ description: "[One-sentence description]"
 
 <!-- Copy into docs/ and add to mkdocs.yml navigation.
 Read docs/editorial/chapter-framework.md. Replace every placeholder.
+After language editing, perform the framework's final source/citation audit before
+author approval and publication; check that revised prose has not strengthened
+historical claims beyond the evidence.
 This template is flexible: omit optional sections, markers and footnote
 definitions when unused. The repository and published pages are public.
 Do not insert private notes, internal editorial audits or unapproved material.
