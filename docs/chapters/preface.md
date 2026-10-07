@@ -65,7 +65,7 @@ For a modern rhyming rendering, see Michael Chidester, ["Rhyming Translation (Ro
 > **4** Be good at wrestling; glaive, spear, sword and messer  
 > **5** wield manfully, and spoil them in another's hands.  
 > **6** Strike in and hurry forward; rush in, hit or let it pass.  
-> **7** Do this properly, and the wise will resent seeing you praised.
+> **7** Do this properly, and the wise will resent seeing you praised.  
 > **8** Grasp this: every art has length and measure.
 
 </div>
