@@ -1,6 +1,6 @@
 # Chapter framework
 
-**Working agreement · version 0.4 · 7 October 2026**
+**Working agreement · version 0.5 · 17 October 2026**
 
 This is the reference for writing chapters of *Feather Fencer Fechtbuch*.
 It records the agreed structure and method. It is a starting point, not a canon:
@@ -187,45 +187,81 @@ Begin with the chapter topic, the intended scope, and the relevant Zettel and
 gloss passages. A link to this framework and the chapter's existing files should
 be enough to locate the recorded working context.
 
-### From discussion to text
+### Three phases: voice → written debate → joint drafting
 
-1. **Initial voice discussion.** Explore the author's understanding, practical
-   experience, intended argument, and desired coverage. Begin with discussion,
-   not a finished chapter draft. Working discussion may be in Czech.
-2. **Source comparison and issue list.** Compare the proposed content with the
-   relevant 3227a and RDL passages and inspect the original wording where it
-   matters. Identify ambiguities, contradictions, gaps, and questions. Keep the
-   author's position separate from suggestions introduced by the assistant.
-3. **Voice refinement.** Work through those issues with the author. Record what
-   was settled, what remains provisional, and what still needs checking.
-   Unresolved questions may remain open; do not manufacture agreement.
-4. **First English draft.** Once the discussion has established a usable basis,
-   the assistant proposes a chapter using the agreed template. Preserve the
-   author's intended argument and mark unresolved points where they matter.
-5. **Content and evidence review.** Check claims and attributions against the
-   witnesses, resolve or disclose translation uncertainty, and distinguish source,
-   historical interpretation, hypothesis, modern model and empirical observation.
-6. **Separate English/readability review.** Correct grammar, terminology,
-   presentation and consistency of the first-person authorial voice without
-   silently changing the author's meaning or degree of confidence.
-7. **Final source and citation audit.** Once the prose is stable, re-check
-   consequential historical claims, quotations, translations, manuscript loci,
-   attributions and source links against the evidence actually cited. Pay
-   particular attention to whether language editing has inadvertently strengthened,
-   generalised or otherwise changed a claim. Any substantive correction made
-   during this pass requires renewed author approval.
-8. **Author approval and publication preparation.** Show the actual proposed
-   reader-facing text; remove internal editorial notes, retain useful public
-   uncertainties, and adapt it to the chapter layout and navigation.
-9. **PR, checks and publication.** Submit an approved candidate on a branch via
-   pull request, run `mkdocs build --strict`, review layout when possible, and
-   merge to `main` only after explicit authorisation. PR checks alone do not
-   provide a public GitHub Pages preview; if appearance matters before merging,
-   prepare a separate rendered preview.
+These phases have distinct purposes. Do not collapse initial authorial exploration,
+critical source assessment and writing into the same step. The author decides when
+to move from voice exploration to the written debate; the assistant should not
+treat a pause, a completed summary or its own curiosity as permission to change
+phases.
 
-Base written records on the discussion or transcript actually available.
-Clarify uncertain transcriptions of technical terms or quotations when they
-affect the argument.
+**Phase 1 — Voice: understand the author's position.**
+
+- The author explains their own understanding of the historical material, their
+  historical interpretation, modern HEMA model or application, practical
+  observations, intended argument and desired coverage. Working discussion may
+  be in Czech.
+- The assistant's job is to understand this account well enough to restate it
+  faithfully and ultimately turn it into text. Ask targeted questions about
+  meaning, distinctions, examples, assumptions, scope and uncertain voice
+  transcriptions. Check that the reconstructed position matches the author's intent.
+- **Do not debate, fact-check, challenge, evaluate or introduce competing
+  historical readings during this phase**, unless the author explicitly requests
+  it. A question here clarifies what the author means; it does not attempt to
+  disprove the claim. Do not quietly replace the author's view with a supposedly
+  better interpretation.
+- Keep clear which claims the author presents as source content, historical
+  interpretation, hypothesis, modern model or empirical observation. Capture
+  their degree of confidence without upgrading it to an established fact.
+  A compact recap can close the phase, but it is not yet a chapter draft or a
+  source-validated conclusion.
+
+**Phase 2 — Written debate: test and refine the account.**
+
+- Once the author moves to written discussion, reconstruct the Phase 1 positions
+  explicitly before assessing them. Compare them against the relevant Zettel,
+  GNM Hs. 3227a, RDL and other pertinent sources, including original wording and
+  manuscript evidence where material.
+- Act as a critical research partner: identify counterevidence, contradictions,
+  alternative explanations, unsupported leaps, ambiguities and omissions.
+  Distinguish source testimony from inference, hypothesis, modern application
+  and empirical observation. Challenge the claims thoroughly rather than
+  selecting evidence only to confirm them.
+- Debate the findings with the author in writing. Ask for clarifications where
+  genuinely needed; record decisions, revisions, reasons and unresolved issues.
+  Preserve the author's position separately from ideas introduced by the assistant.
+  Do not manufacture agreement. Modern usefulness cannot by itself establish
+  historical intent.
+- Proceed to drafting when there is a sufficiently clear and explicitly
+  understood basis, including honestly labelled uncertainties; not every
+  disagreement must be eliminated.
+
+**Phase 3 — Joint writing: draft, edit, review and approve.**
+
+1. **First English draft.** Transform the agreed argument into an editable chapter
+   using the chapter template. Keep the author's first-person voice and distinguish
+   source evidence, historical interpretation, hypothesis and modern application.
+2. **Collaborative content and evidence editing.** Review the reasoning, historical
+   claims, attributions, completeness and consistency against the agreed position
+   and relevant witnesses. Resolve or disclose material uncertainty.
+3. **Separate English and readability editing.** Check grammar, terminology,
+   structure, presentation and consistency without silently changing meaning
+   or degree of confidence.
+4. **Final source and citation audit.** Recheck consequential quotations,
+   translations, manuscript loci, attributions and links against the sources.
+   If this audit changes substance, obtain renewed author approval.
+5. **Author approval and publication preparation.** Present the actual final
+   reader-facing text for explicit approval, remove internal editorial notes,
+   retain useful public uncertainties and apply layout/navigation.
+6. **PR, checks and publication.** Submit an approved publication candidate
+   via a branch and pull request, run `mkdocs build --strict`, review the layout
+   where possible and merge to `main` only after explicit authorisation.
+   PR checks alone do not provide a GitHub Pages preview.
+
+Base written records on discussion or transcripts actually available. Clarify
+uncertain transcriptions when they affect substantive interpretation. Only the
+result approved for publication becomes canonical; exploratory discussion and
+working drafts do not.
 
 ### Keeping the working context portable
 
